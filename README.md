@@ -1,8 +1,14 @@
-### Hi，I'm Gopher !
+## Hi, I'm Gopher🦸‍♂️
 
-![](./git/gopher.gif)
+<img src="git/gopher.gif" style="zoom:50%;" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## About Me👨‍💻
 
+- ☁️ 喜欢研究Kubernetes、Istio等云原生相关技术栈。
+- ☕️ 语言选择Go或者Java，反正不是天下第一语言PHP。
+- 🏀 喜欢打篮球、打游戏、看黑丝。
+- 🤔 挑战稀奇古怪的想法。
+-  👣 一步一个脚印，Hello World。
+- ⚡️ 冲冲冲。。。
 
-**I am a gopher**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chen-haotian)](https://github.com/anuraghazra/github-readme-stats)
