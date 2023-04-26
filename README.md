@@ -1,6 +1,6 @@
 ## Hi, I'm Gopher🦸‍♂️
 
-<img src="git/gopher.gif" style="zoom:30%;" />
+<img src="./git/gopher.gif" width="400px">
 
 ## About Me👨‍💻
 
