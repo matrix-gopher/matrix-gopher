@@ -1,4 +1,4 @@
-## <img src="./git/blob-sunglasses.gif" width=50px>Hello，我是一只Gopher
+## <img src="./git/blob-sunglasses.gif" width=30px>Hello，我是一只Gopher
 
 <img src="./git/gopher.gif" width="240px">
 
