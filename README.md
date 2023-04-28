@@ -1,8 +1,8 @@
-## <img src="./git/blob-sunglasses.gif" width=30px> Hello，我是一只Gopher 🦸
+## <img src="./gif/blob-sunglasses.gif" width=30px> 我是一枚Gopher魔法师 🧙‍♂️🪄
 
-<img src="./git/gopher.gif" width="240px">
+<img src="./gif/gopher.gif" width="240px">
 
-## <img src="./git/blob-sunglasses.gif" width=30px> 喜欢的技术栈 🎃
+## <img src="./gif/blob-sunglasses.gif" width=30px> 喜欢的技术栈 🎃
 
 <p>
     <a href="https://github.com/golang/go"><img src="https://img.shields.io/badge/-Go-79D4FD?style=flat&logo=go&logoColor=white"></a>
@@ -26,7 +26,7 @@
     <a href="https://github.com/ubuntu"><img src="https://img.shields.io/badge/-Ubuntu-DC4813?style=flat&logo=ubuntu&logoColor=white"></a>
 </p>
 
-## <img src="./git/blob-sunglasses.gif" width=30px> 关于我的信息 👨‍💻
+## <img src="./gif/blob-sunglasses.gif" width=30px> 关于我的信息 👨‍💻
 
 <img src="https://github-readme-stats.vercel.app/api?username=chen-haotian&show_icons=true&theme=radical">
 
