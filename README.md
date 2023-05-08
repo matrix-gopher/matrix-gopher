@@ -22,7 +22,7 @@
 
 - ☁️ 喜欢研究Kubernetes、Istio等云原生相关技术栈。
 - ☕️ 语言选择Go或者Java，不是天下第一语言PHP。
-- 🏀 喜欢打篮球、玩游戏、看黑丝、看白丝、看JK小姐姐、撸猫猫🐱。
+- 🏀 喜欢打篮球、玩游戏、撸猫猫🐱。
 - 🤔 挑战稀奇古怪的想法。
 - 👣 一步一个脚印，Hello World。
 - 🔭 Go...Go...Go...
@@ -32,17 +32,17 @@
 <details>
     <summary>✨2023✨
     </summary>
-    bug a little less.
+    🛠 bug少一点。
 </details>
 
 <details>
     <summary>✨2022✨
     </summary>
-    bug a little less.
+    🛠 bug少一点。
 </details>
 
 <details>
     <summary>✨2021✨
     </summary>
-    bug a little less.
+    🛠 bug少一点。
 </details>
