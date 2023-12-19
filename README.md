@@ -12,12 +12,12 @@
 
 ## <img src="./gif/capoo-bugcat.gif" width=36px> 关于我的信息 <img src="./gif/giphy.webp" width=36px>
 
-<a href="https://github.com/chen-haotian">
-<img src="https://github-readme-stats.vercel.app/api?username=chen-haotian&show_icons=true&theme=tokyonight">
+<a href="https://github.com/matrix-gopher">
+<img src="https://github-readme-stats.vercel.app/api?username=matrix-gopher&show_icons=true&theme=tokyonight">
 </a>
 
-<a href="https://github.com/chen-haotian">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chen-haotian&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
+<a href="https://github.com/matrix-gopher">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrix-gopher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
 </a>
 
 - ☁️ 喜欢研究Kubernetes、Istio等云原生相关技术栈。
