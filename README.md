@@ -30,6 +30,12 @@
 ## <img src="./gif/capoo-bugcat.gif" width=36px> 我未来的历程 <img src="./gif/giphy.webp" width=36px>
 
 <details>
+    <summary>✨2024✨
+    </summary>
+    🛠 bug少一点。
+</details>
+
+<details>
     <summary>✨2023✨
     </summary>
     🛠 bug少一点。
