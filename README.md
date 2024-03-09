@@ -1,4 +1,6 @@
-## <img src="./images/capoo-bugcat.gif" width=37px/> 我是一枚Gopher魔法师 <img src="./images/blob-sun.gif" width=37px/>
+## <img src="./images/capoo-bugcat.gif" width="35px"/> 我是一枚Gopher魔法师 <img src="./images/blob-sun.gif" width="35px"/>
+
+<img  src="./images/gopher.gif" width="240px" alt="image">
 
 编程语言: <a><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-C++-00427E?style=flat&logo=cplusplus&labelColor=F0F8FF&logoColor=632370"/></a> <a><img src="https://img.shields.io/badge/-Koltin-7E51FE?style=flat&logo=kotlin&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Python-204563?style=flat&logo=python&labelColor=F0F8FF"/></a>
 
@@ -16,9 +18,7 @@
 
 前端技术栈: <a><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&labelColor=F0F8FF&logoColor=1572B6"/></a> <a><img src="https://img.shields.io/badge/-Normalize.css-E3695F?style=flat&logo=normalizedotcss&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3dotjs&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&labelColor=F0F8FF&logoColor=E10098"/></a>
 
-<img align="right" src="./images/gopher.gif" width="240px">
-
-## <img src="./images/capoo-bugcat.gif" width=37px/> 关于我的信息 <img src="./images/giphy.webp" width=37px/>
+## <img src="./images/capoo-bugcat.gif" width="35px"/> 关于我的信息 <img src="./images/giphy.webp" width="35px"/>
 
 <a href="https://github.com/magic-gopher">
     <img src="https://github-readme-stats.vercel.app/api?username=magic-gopher&show_icons=true&theme=radical"/>
@@ -35,7 +35,7 @@
 - 👣 一步一个脚印，Hello World。
 - 🔭 Go...Go...Go...
 
-## <img src="./images/capoo-bugcat.gif" width=37px/> 我未来的历程 <img src="./images/giphy.webp" width=37px/>
+## <img src="./images/capoo-bugcat.gif" width="35px"/> 我未来的历程 <img src="./images/giphy.webp" width="35px"/>
 
 <details>
     <summary>
