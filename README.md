@@ -1,6 +1,6 @@
 ## <img src="./images/capoo-bugcat.gif" width="35px"/> 我是一枚Gopher魔法师 <img src="./images/blob-sun.gif" width="35px"/>
 
-<img src="./images/gopher.gif" width="240px" style="float:right; margin: 5px;">
+<img src="./images/gopher.gif" width="240px" align="right">
 
 编程语言: <a><img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-C++-00427E?style=flat&logo=cplusplus&labelColor=F0F8FF&logoColor=632370"/></a> <a><img src="https://img.shields.io/badge/-Koltin-7E51FE?style=flat&logo=kotlin&labelColor=F0F8FF"/></a> <a><img src="https://img.shields.io/badge/-Python-204563?style=flat&logo=python&labelColor=F0F8FF"/></a>
 
