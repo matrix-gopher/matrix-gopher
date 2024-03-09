@@ -1,6 +1,6 @@
 ## <img src="./images/capoo-bugcat.gif" width="35px"/> 我是一枚Golang魔法师 <img src="./images/blob-sun.gif" width="35px"/>
 
-<img src="./images/gopher.gif" width="240px" align="left">
+<img src="./images/gopher.gif" width="240px">
 
 - ☁️ 喜欢研究[Kubernetes](https://kubernetes.io/)、[Istio](https://istio.io/)等云原生相关技术栈。
 - ☕️ 语言选择Go、Java，不是天下第一语言PHP。
