@@ -3,7 +3,7 @@
 <img src="./images/gopher.gif" width="240px">
 
 - ☁️ 喜欢研究[Kubernetes](https://kubernetes.io/)、[Istio](https://istio.io/)等云原生相关技术栈。
-- ☕️ 语言选择Go、Java，不是天下第一语言PHP。
+- ☕️ 语言选择[Go](https://go.dev/)、[Java](https://www.oracle.com/)，不是天下第一语言PHP。
 - 🏀 喜欢唱、跳、rap、篮球。
 - 🤔 挑战稀奇古怪的想法。
 - 👣 一步一个脚印，Hello World。
